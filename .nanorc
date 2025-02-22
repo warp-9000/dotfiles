@@ -1,6 +1,7 @@
-			
+
 	set atblanks
 	set autoindent
+	set breaklonglines
 	set guidestripe 101
 	set stripecolor grey,grey
 	set linenumbers
