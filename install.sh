@@ -7,7 +7,7 @@ HOME_DIR="$HOME"
 REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 # List of target files and directories
-TARGETS=( ".nanorc" ".nano" )
+TARGETS=( ".nanorc" ".nano" ".gitconfig" )
 
 # List to store existing files
 EXISTING_FILES=()
